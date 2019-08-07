@@ -1,29 +1,27 @@
 {
-"name":"Root",
-"children":[
-    {
-     "name":"Tom",
-     "children":[
-         {
-         "name":"Dick",
-         "children":[
-             {"name":"Harry"}
-         ]
-         },
-         {
-          "name":"Larry"}
-     ]
-    },
-    {
-    "name":"Bob",
-    "children":[
+    "name": "Root",
+    "children": [
         {
-        "name":"Leroy"
-        },
-        {
-        "name":"Earl"
+            "name": 591074339,
+            "children": [
+                {
+                    "name": 591158317
+                },
+                {
+                    "name": 250378030,
+                    "children": [
+                        {
+                            "name": 510669663
+                        },
+                        {
+                            "name": 111041826
+                        },
+                        {
+                            "name": 330425703
+                        }
+                    ]
+                }
+            ]
         }
     ]
-    }
-]
 }
